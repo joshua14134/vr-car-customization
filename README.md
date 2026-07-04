@@ -33,10 +33,10 @@ An immersive Virtual Reality application built with Unity that allows users to c
 
 <p align="center">
 
-<a href="Screenshots/demo.mp4">
+<a href="demo.mp4">
 <img src="https://img.shields.io/badge/🎥_Watch_Demo-Play_Video-red?style=for-the-badge&logo=youtube">
 
-<a href="Screenshots/demo1.mp4">
+<a href="demo1.mp4">
 <img src="https://img.shields.io/badge/🎥_Watch_Demo-Play_Video-red?style=for-the-badge&logo=youtube">
 
 </a>
